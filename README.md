@@ -11,6 +11,7 @@ Purpose of this project is to be able to identify sentiment against Reddit comme
 - Get "Top X submissions"?
 - Get "Top x comments"?
 - Get "Top x subreddits"?
+- Create Machine Learning Example, to analyze comment sentiment
 
 # Other Sample Projects
 
